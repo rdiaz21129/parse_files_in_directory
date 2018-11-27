@@ -2,11 +2,9 @@
 Program goes through files in a directory, run through each file, pull data (show command) and add to one file.
 
 # How to run python script (version 1.08)<br/>
-    ```bash
     python3.7 parse_files_in_dir_ver_1_08.py
     Starting string: COMMAND: show lldp neigh
     Enter full directory path: /home/rdiaz/config_backups/site_a/backups/SITEA_backup_20181124/
-    ```
 	
     cat parse_output.txt | more
 	
