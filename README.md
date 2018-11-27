@@ -8,9 +8,7 @@ Program goes through files in a directory, run through each file, pull data (sho
     Enter full directory path: /home/rdiaz/config_backups/site_a/backups/SITEA_backup_20181124/
     ```
 	
-	```bash
     cat parse_output.txt | more
-    ```
 	
 SITEA-I001-B1F2R1_10.235.239.10
 ===============
